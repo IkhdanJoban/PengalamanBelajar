@@ -5,3 +5,6 @@ Penambahan text forking
 
 
 Perubahan Kedua dengan forking
+
+
+Perubahan tanpa squash 1
