@@ -10,3 +10,5 @@ Perubahan Kedua dengan forking
 Perubahan tanpa squash 1
 
 Perubahan tanpa squash 2
+
+Code Review
